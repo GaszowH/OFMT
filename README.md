@@ -1,5 +1,5 @@
 ```markdown
-# Enterprise OSINT Image Intelligence Collector
+# OSINT Image Intelligence Collector
 
 This tool monitors a folder for new or modified image files, extracts rich intelligence (metadata, GPS coordinates, OCR text, faces), performs reverse geocoding, logs everything, and detects file tampering. It is designed for production environments with features like circuit breakers, structured logging, health checks, and metrics.
 
